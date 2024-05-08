@@ -28,3 +28,4 @@ if __name__ == '__main__':
     print(me.greeting())
 ```
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathooo&hide_progress=true)

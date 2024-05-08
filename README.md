@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">
+  <b>fathooo</b>
+</h1>
 
-<!--
-**fathooo/fathooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy **fathooo**, un desarrollador de software apasionado por la tecnología y la innovación. Aunque mi formación académica se centra en psicología, mi pasión por la tecnología y la programación me ha llevado a aprender y desarrollar habilidades desde una edad temprana.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajo como desarrollador de software, donde aplico mis habilidades técnicas para crear soluciones innovadoras.
+- 🌱 Me encanta aprender y explorar nuevas tecnologías que me permitan mejorar mis habilidades y crear mejores productos.
+- 👯 Estoy abierto a colaboraciones y proyectos emocionantes que desafíen mis habilidades y me permitan crecer como profesional.
+- 💬 Si quieres saber más sobre mí o mis proyectos, ¡visita mi [página web](https://www.fathooo.com/) o mi [blog](https://www.fathooo.com/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Me():
+  def __init__(self):
+    self.name = "felipe"
+    self.username = "fathooo"
+    self.location = "América Latina"
+    self.web = "https://fathooo.com"
+
+  def greeting():
+    return "¡Hola, mucho gusto!"
+
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = Me()
+    print(me.greeting())
+```
+

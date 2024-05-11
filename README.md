@@ -1,16 +1,17 @@
-![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/fathooo/fathooo/main/banner.png)
-
 <h1 align="center">
-  <b>¡Hola! 👋</b>
+  ¡Hola, soy fathooo! 👋
 </h1>
 
-Soy **fathooo**, un desarrollador de software apasionado por la tecnología y la innovación. Aunque mi formación académica se centra en psicología, mi pasión por la tecnología y la programación me ha llevado a aprender y desarrollar habilidades desde una edad temprana.
+Soy un desarrollador de software apasionado por la tecnología y la innovación. Aunque mi formación académica se centra en psicología, mi pasión por la tecnología y la programación me ha llevado a aprender y desarrollar habilidades desde una edad temprana.
 
 - 🔭 Actualmente trabajo como desarrollador de software, donde aplico mis habilidades técnicas para crear soluciones innovadoras.
 - 🌱 Me encanta aprender y explorar nuevas tecnologías que me permitan mejorar mis habilidades y crear mejores productos.
 - 👯 Estoy abierto a colaboraciones y proyectos emocionantes que desafíen mis habilidades y me permitan crecer como profesional.
-- 💬 Si quieres saber más sobre mí o mis proyectos, ¡Visita mi <a href="https://www.fathooo.com/" target="_blank">página web</a> o mi <a href="https://www.fathooo.com/es/blogs" target="_blank">blog</a>!
+- 💬 Si quieres saber más sobre mí o mis proyectos, ¡Visita mi [página web](https://www.fathooo.com/) o mi [blog](https://www.fathooo.com/es/blogs), no olvides mis [proyectos](https://www.fathooo.com/es/projects) !
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fathooo/fathooo/main/banner.png" alt="Banner">
+</div>
 
 ```python
 class Me():
@@ -31,4 +32,9 @@ if __name__ == '__main__':
     print(me.greeting())
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathooo&hide_progress=true)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathooo&hide_progress=true" alt="Banner">
+</div>
+
+

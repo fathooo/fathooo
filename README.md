@@ -11,4 +11,4 @@ Soy un desarrollador de software apasionado por la tecnología y la innovación.
 
 ---
 
-<div align="center"> <a href="https://www.fathooo.com/" target="_blank"> <img src="https://raw.githubusercontent.com/fathooo/fathooo/main/banner.png" alt="Banner"> </a> </div>
+
